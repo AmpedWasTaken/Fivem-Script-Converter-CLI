@@ -13,4 +13,5 @@ This is a command line interface version of the Fivem Script Converter
 
 ### Custom made libary i used to make this
 [Github](https://github.com/AmpedScripts/Fivem-Script-Converter)
-[npm](npm i fivem-script-converter)
+<br>
+[npm](https://www.npmjs.com/package/fivem-script-converter)
