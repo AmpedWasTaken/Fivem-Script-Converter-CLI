@@ -13,12 +13,12 @@ This is a command line interface version of the Fivem Script Converter
 
 ### Custom made libary i used to make this
 Github Repository 
-<br>
+<br />
 <a href="https://github.com/AmpedScripts/Fivem-Script-Converter" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<br>
+<br />
 [Discord](https://discord.com/users/670792646494650408)
-<br>
+<br />
 Npm Page
-<br>
+<br />
 <a href="https://www.npmjs.com/package/fivem-script-converter" target="blank"><img src="https://img.shields.io/badge/Npm-100000?style=for-the-badge&logo=npm&logoColor=white"/>
 
