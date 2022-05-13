@@ -16,6 +16,7 @@ Github Repository
 <br>
 <a href="https://github.com/AmpedScripts/Fivem-Script-Converter" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <br>
+[Discord](https://discord.com/users/670792646494650408)
 <br>
 Npm Page
 <br>
