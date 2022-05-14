@@ -3,7 +3,9 @@ This is a command line interface version of the Fivem Script Converter -->
 <!-- <h2 align="center">
   ![](https://i.imgur.com/4iH7Wkm.gif)
 </h2> -->
-![](https://i.imgur.com/4iH7Wkm.gif)
+<div align="center">
+    ![](https://i.imgur.com/4iH7Wkm.gif)
+</div>
 
 ---
 <p align="center">
