@@ -1,5 +1,22 @@
-# Fivem-Script-Converter-CLI
-This is a command line interface version of the Fivem Script Converter
+<!-- # Fivem-Script-Converter-CLI
+This is a command line interface version of the Fivem Script Converter -->
+<h2 align="center">
+  [test](https://i.imgur.com/4iH7Wkm.gif)
+</h2>
+
+---
+<p align="center">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AmpedScripts/Fivem-Script-Converter-CLI">
+  <img src="https://img.shields.io/github/issues/AmpedScripts/Fivem-Script-Converter-CLI">
+  <img src="https://img.shields.io/github/issues-closed-raw/AmpedScripts/Fivem-Script-Converter-CLI">
+  <img src="https://img.shields.io/github/issues-pr-closed-raw/AmpedScripts/Fivem-Script-Converter-CLI">
+  </br>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AmpedScripts/Fivem-Script-Converter-CLI">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AmpedScripts/Fivem-Script-Converter-CLI">
+  </br>
+</p>
+
+---
 
 ## How to use
 ```ini
@@ -10,6 +27,8 @@ This is a command line interface version of the Fivem Script Converter
 [5] Open output.lua and there is the converted file.
 [6] Finished!!
 ```
+
+---
 
 # Custom made libary i used to make this
 
