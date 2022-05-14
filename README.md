@@ -1,8 +1,9 @@
 <!-- # Fivem-Script-Converter-CLI
 This is a command line interface version of the Fivem Script Converter -->
-<h2 align="center">
-  ![test](https://i.imgur.com/4iH7Wkm.gif)
-</h2>
+<!-- <h2 align="center">
+  ![](https://i.imgur.com/4iH7Wkm.gif)
+</h2> -->
+![](https://i.imgur.com/4iH7Wkm.gif)
 
 ---
 <p align="center">
