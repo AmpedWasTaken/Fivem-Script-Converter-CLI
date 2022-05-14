@@ -6,7 +6,9 @@ This is a command line interface version of the Fivem Script Converter -->
 <p align="center">
   <img src="https://i.imgur.com/4iH7Wkm.gif" alt="animated" />
 </p>
+
 ---
+
 <p align="center">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AmpedScripts/Fivem-Script-Converter-CLI">
   <img src="https://img.shields.io/github/issues/AmpedScripts/Fivem-Script-Converter-CLI">
