@@ -4,7 +4,7 @@ This is a command line interface version of the Fivem Script Converter -->
   ![](https://i.imgur.com/4iH7Wkm.gif)
 </h2> -->
 <p align="center">
-  <img src="https://i.imgur.com/4iH7Wkm.gif" alt="animated" />
+  <img src="https://i.imgur.com/4iH7Wkm.gif" alt="animated" width="600" heigth="200"/>
 </p>
 
 ---
