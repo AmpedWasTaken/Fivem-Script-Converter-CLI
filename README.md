@@ -22,6 +22,10 @@ This is a command line interface version of the Fivem Script Converter -->
 
 ---
 
+## Make sure u have nodejs installed
+
+https://nodejs.org/en/
+<!-- install page of nodejs -->
 ## How to use
 ```ini
 [1] Open the install.bat to install all the dependencies needed for the CLI.
